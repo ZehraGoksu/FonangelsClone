@@ -1,0 +1,33 @@
+.main{
+  background-color:#F47F18;
+}
+
+.logoSize{
+  height: 90px;
+  width: 239px;
+}
+
+.dropdown{
+  color:white; 
+  font-size:25px;
+}
+
+.dropdownLists{ 
+  font-size:20px;
+  line-height:3;
+  border:none;
+}
+
+.loginBtn{
+  border-radius:30px;
+  font-size:25px;
+}
+
+.accountBtn{
+  border-radius:30;
+  font-size:25;
+  background: 'linear-gradient(94.05deg,#d02b35 0,#f47f49 103.09%)';
+  color:white; 
+  border:none;
+}
+ 

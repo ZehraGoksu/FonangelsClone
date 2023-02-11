@@ -1,0 +1,17 @@
+.mainDiv{
+    background-image: url('../assets/images/bannerSecond.png');
+    height: 900px;
+    background-size: 'cover';
+    padding-top: 90px;
+}
+.textPosition{
+    float: left;
+    width: 350px;
+    margin: 70px 25px 0 25px;
+}
+.textSize{
+    font-weight: 500;
+    font-size: 2em;
+    margin-bottom: 50px;
+    color: #000;
+}
